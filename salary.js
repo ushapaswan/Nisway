@@ -1,6 +1,7 @@
 var{
     con
-}=require("./db")
+
+}=require("./database")
 
 
 
